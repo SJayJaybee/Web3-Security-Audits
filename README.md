@@ -4,7 +4,7 @@
 
 ---
 
-> *"I see founders spend millions on marketing, only to lose their entire protocol treasury to a single, preventable smart contract exploit. The highest cost in Web3 is not gas fees; it is a compromised protocol. This repository contains post-mortem analyses and zero-trust frontend security architectures I use to protect protocol treasuries and retail liquidity."*
+> *"I see founders spend millions on marketing, only to lose their entire project's treasury to a single, preventable smart contract exploit. The highest cost in Web3 is not gas fees; it is a compromised protocol. This repository contains post-mortem analyses and frontend security architectures I use to protect project treasuries and retail liquidity."*
 
 ## 🔍 Security Audits & Remediation Playbooks
 
@@ -32,8 +32,5 @@ Smart contracts are only half the battle; if the frontend is vulnerable, retail 
 As a White-Hat Auditor, I adhere to strict security reporting standards. Please note the following regarding this public repository and my associated documentation:
 
 * **Sanitized Education:** The post-mortems and code snippets in this repository are sanitized representations of historical exploits. They do not expose live, unpatched zero-day vulnerabilities in active protocols.
-* **Simulated Financials:** Any transaction volumes, wallet balances, or token tickers referenced in my playbooks are simulated dummy variables used purely for architectural demonstration.
-* **IP Protection & Watermarking:** You will notice my "SJAYJAYBEE" branding and logos embedded into the security playbooks. This acts as a deliberate watermark to protect my proprietary security checklists and visual architecture from being scraped by competing agencies.
-
 ---
 *Secured and Architected by SJAYJAYBEE.*
